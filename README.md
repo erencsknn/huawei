@@ -1,0 +1,1 @@
+## Bu pyspark practice çalışması Yapay Zeka Uzmanlık eğitimi kapsamında sevgili Huawei mentörlerim tarafından hazırlanmıştır. Sadece practice dosyasının sonundaki 2 practice tarafımca cevaplandırılmıştır.
